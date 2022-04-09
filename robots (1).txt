@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow:
+Sitemap: https://seokeuzendeeltest.github.io/sitemap.xml
